@@ -99,6 +99,16 @@ To deactivate the virtual environment after usage, type
 
 ### Windows
 
+###Utilization of ytcd_win32ui.exe
+
+To use the ytcd_win32ui.exe provided in this repository:
+
+Download the ytcd_win32ui.exe file from the releases page.
+
+Double-click the downloaded file to run the program to access the data.
+
+∞) No installation required. Simply download and run the ytcd_win32ui.exe file without needing to navigate Python or PowerShell.
+
 #### Using Command Prompt or PowerShell
 
 ##### Clone the repository
@@ -156,7 +166,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Authors
 
 - **hyperfield** - *Initial work* and *Documentation* - [hyperfield](https://github.com/hyperfield)
-
+-**unvxd** - *Windows compatibility* [unvxd](https://github.com/unvxd)
 See also the list of [contributors](https://github.com/hyperfield/yt-channel-downloader/contributors) who participated in this project.
 
 ## Donation
