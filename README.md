@@ -97,17 +97,21 @@ To deactivate the virtual environment after usage, type
 
     deactivate
 
+---
+
 ### Windows
 
-### Utilization of ytcd_win32ui.exe
+##### Utilization of ytcd_win32ui.exe
 
 To use the ytcd_win32ui.exe provided in this repository:
 
-Download the ytcd_win32ui.exe file from the releases page.
+1) Download the ytcd_win32ui.exe file from the releases page.
 
-Double-click the downloaded file to run the program to access the data.
+2) Double-click the downloaded file to run the program to access the data.
 
 ∞) No installation required. Simply download and run the ytcd_win32ui.exe file without needing to navigate Python or PowerShell.
+
+--
 
 #### Using Command Prompt or PowerShell
 
