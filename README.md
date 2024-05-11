@@ -99,7 +99,7 @@ To deactivate the virtual environment after usage, type
 
 ### Windows
 
-###Utilization of ytcd_win32ui.exe
+### Utilization of ytcd_win32ui.exe
 
 To use the ytcd_win32ui.exe provided in this repository:
 
