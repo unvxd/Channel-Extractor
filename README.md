@@ -166,7 +166,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Authors
 
 - **hyperfield** - *Initial work* and *Documentation* - [hyperfield](https://github.com/hyperfield)
+
 -**unvxd** - *Windows compatibility* [unvxd](https://github.com/unvxd)
+
 See also the list of [contributors](https://github.com/hyperfield/yt-channel-downloader/contributors) who participated in this project.
 
 ## Donation
